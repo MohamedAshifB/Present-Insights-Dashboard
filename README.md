@@ -52,9 +52,3 @@ It helps the HR department understand workforce presence trends and optimize emp
 2. Open `HR-Analytics-Atliq.pbix` in **Power BI Desktop**.  
 3. Interact with the dashboard slicers to explore attendance insights.  
 
----
-
-## 🏅 Author
-**Name :** [Your Name]  
-**Role :** Data Analyst (Student Project)  
-**Tool Used :** Microsoft Power BI
